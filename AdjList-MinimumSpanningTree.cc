@@ -1,5 +1,3 @@
-// 250201009 SelahattinCeylan ------ 250201042 FurkanŞahin
-
 #include<bits/stdc++.h> 
 using namespace std; 
   
